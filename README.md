@@ -25,6 +25,6 @@ $ systemctl status kafka
 5. Run Kafka producer:
 ```
 $ java -cp /usr/local/kafka/libs/*:KafkaProducer.jar \
-com.example.bigdata.TestProducer copy-netflix-prize-data 15 kafka-netflix \
+com.example.bigdata.TestProducer <name_of_catalog> 15 <topic> \
 0 localhost:9092
 ```
