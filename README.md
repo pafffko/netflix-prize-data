@@ -1,5 +1,5 @@
 # netflix-prize-data
-
+![alt text](https://github.com/pafffko/netflix-prize-data/blob/master/Process_diagram.png?raw=true)
 1. Download data:
 ```
 $ mkdir <name_of_catalog>
