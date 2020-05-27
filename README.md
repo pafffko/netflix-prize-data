@@ -18,7 +18,7 @@ $ flink-1.10.0/bin/start-cluster.sh
 $ systemctl start zookeeper
 $ systemctl start kafka
 ```
-To heck if kafka is running:
+To check if kafka is running:
 ```
 $ systemctl status kafka
 ```
